@@ -19,7 +19,7 @@ struct ContentView: View {
                 .resizable(resizingMode: .stretch)
                 .aspectRatio(contentMode: .fit)
             Button("Click to Learn More About ME!") {
-                introduce = "I'm Krisha! I am 17 years old, and I like to draw, paint, read, bake, and watch movies"
+                introduce = "I'm Krisha! I am 17 years old, and I like to draw, paint, read, bake, and watch movies!"
                 
             }
             
